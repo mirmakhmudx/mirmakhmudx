@@ -43,7 +43,7 @@
 * 🔹 Laravel REST API Projects
 * 🔹 Admin Panels & Dashboards
 * 🔹 Dockerized Applications
-* 🔹 
+* 🔹 Backend Systems with Clean Architecture
 
 ---
 
