@@ -19,7 +19,7 @@
 <!-- ================= ABOUT ================= -->
 <h2>⚡ About Me</h2>
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=mirmakhmudx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&hide_title=true&hide_rank=false" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=mirmakhmudx&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&hide_title=true" />
 
 - 🧑‍💻 **Backend Developer** from **Uzbekistan** 🇺🇿
 - 🎓 Student at **PDP University**
